@@ -1,0 +1,53 @@
+[Tue Oct 25 01:46:33 CDT 2022] Observador suscrito.
+[Tue Oct 25 01:46:33 CDT 2022] Inicializada lista productos
+[Tue Oct 25 01:46:36 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:41 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:55 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:55 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:55 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:56 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:56 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:56 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:56 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:59 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:59 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:59 CDT 2022] Voto registrado
+[Tue Oct 25 01:46:59 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:44 CDT 2022] Observador suscrito.
+[Tue Oct 25 02:29:44 CDT 2022] Inicializada lista productos
+[Tue Oct 25 02:29:47 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:47 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:47 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:49 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:50 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:50 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:50 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:50 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:51 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:51 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:51 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:53 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:54 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:55 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:55 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:56 CDT 2022] Voto registrado
+[Tue Oct 25 02:29:56 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:00 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:01 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:01 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:08 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:08 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:22 CDT 2022] Observador suscrito.
+[Tue Oct 25 02:30:22 CDT 2022] Inicializada lista productos
+[Tue Oct 25 02:30:24 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:28 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:36 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:40 CDT 2022] Voto registrado
+[Tue Oct 25 02:30:40 CDT 2022] Voto registrado
+[Wed Oct 26 14:17:30 CDT 2022] Observador suscrito.
+[Wed Oct 26 14:17:30 CDT 2022] Inicializada lista productos
+[Wed Oct 26 14:19:07 CDT 2022] Observador suscrito.
+[Wed Oct 26 14:19:07 CDT 2022] Inicializada lista productos
+[Wed Oct 26 14:20:14 CDT 2022] Voto registrado
+[Wed Oct 26 14:20:15 CDT 2022] Voto registrado
+[Wed Oct 26 14:20:16 CDT 2022] Voto registrado
